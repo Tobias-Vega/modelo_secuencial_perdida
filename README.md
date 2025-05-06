@@ -1,0 +1,1 @@
+# Trabajo Perdida en modelo secuencial
